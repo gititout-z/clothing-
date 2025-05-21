@@ -7,3 +7,6 @@ black
 
 # Testing
 pytest
+
+# Environment variable management
+python-dotenv

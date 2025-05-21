@@ -2,3 +2,8 @@
 max-line-length = 88
 # Whitespace before ':' - black handles this
 extend-ignore = E203
+
+# Add or modify per-file-ignores
+per-file-ignores =
+    whatsapp_app/main.py: E501
+    tests/test_main.py: E501
