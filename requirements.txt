@@ -1,0 +1,9 @@
+# WhatsApp API library (example: Twilio)
+twilio
+
+# Linting
+flake8
+black
+
+# Testing
+pytest
